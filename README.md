@@ -16,7 +16,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________
 • Download the Classification model file from following Drive Link
 
-• https://drive.google.com/drive/folders/1VrakpTC9fb8s1VIkX_2prfSOMOa9Nu-E?usp=sharing
+• https://github.com/Diana-Laveena-DSouza/Bankbot/tree/main/models
 
 # 🖥️ Installation 
 ______________________________________________________________________________________________________________________

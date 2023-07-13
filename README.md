@@ -10,7 +10,7 @@ of the correct safety measures to protect their accounts. To assist customers wi
 ______________________________________________________________________________________________________________________
  • Download the dataset for custom training
  
- • https://drive.google.com/drive/folders/1QQZciugL_wOkxhCRAH2cKWZChTab3ViM?usp=sharing
+ • https://github.com/Diana-Laveena-DSouza/Bankbot/blob/main/dataset/intents.json
  
 # 🏽‍ Download the Model
 ______________________________________________________________________________________________________________________

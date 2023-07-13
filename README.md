@@ -45,19 +45,23 @@ ________________________________________________________________________________
 
 • nltk 3.7
 
+• Android Studio
+
+• Java
+
 # 📖 Please Go through following documents for more information.
 
-• https://github.com/Diana-Laveena-DSouza/Facebook-Post-Status-Prediction/blob/main/doc/Facebook_HLD_V1.pdf
+• https://github.com/Diana-Laveena-DSouza/Bankbot/blob/main/Bankbot%20documents/Bankbot_Architecture_1.0v.pdf
 
-• https://github.com/Diana-Laveena-DSouza/Facebook-Post-Status-Prediction/blob/main/doc/FacebookStatus_DetailProject.pptx
+• https://github.com/Diana-Laveena-DSouza/Bankbot/blob/main/Bankbot%20documents/Bankbot_DetailProject.pptx
 
-• https://github.com/Diana-Laveena-DSouza/Facebook-Post-Status-Prediction/blob/main/doc/FacebookStatus_LLD_1.0v.pdf
+• https://github.com/Diana-Laveena-DSouza/Bankbot/blob/main/Bankbot%20documents/Bankbot_HLD_V1.pdf
 
-• https://github.com/Diana-Laveena-DSouza/Facebook-Post-Status-Prediction/blob/main/doc/FacebookStatus_WireFrame.pdf
+• https://github.com/Diana-Laveena-DSouza/Bankbot/blob/main/Bankbot%20documents/Bankbot_LLD_1.0v.pdf
 
-• https://github.com/Diana-Laveena-DSouza/Facebook-Post-Status-Prediction/blob/main/doc/FacebookStatus_Architecture_1.0v.pdf
+• https://github.com/Diana-Laveena-DSouza/Bankbot/blob/main/Bankbot%20documents/Bankbot_WireFrame.pdf
 
-# Facebook Post Status Prediction
+# Bankbot Prediction results
 _______________________________________________________________________________________________________________________
 
 • Demo Link: https://www.youtube.com/watch?v=Y3NRYeYHYrs&t=12s
